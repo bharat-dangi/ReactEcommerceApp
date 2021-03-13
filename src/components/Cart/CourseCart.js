@@ -37,7 +37,7 @@ export default class CourseCart extends Component {
                     <button
                       data-item-id={node.id}
                       data-item-price={node.price}
-                      data-item-url="https://learncodeonline.in"
+                      data-item-url="https://react-ecommerce-practice-project.netlify.app/"
                       data-item-image={node.image.fixed.src}
                       data-item-image="/assets/images/starry-night.jpg"
                       data-item-name={node.title}
