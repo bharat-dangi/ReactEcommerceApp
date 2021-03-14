@@ -20,7 +20,7 @@ img={data.img.childImageSharp.fluid}
    <InfoBlock heading="About Us" />
    <CourseCart courses={data.courses} />
    <DualInfoBlock 
-   img="https://images.pexels.com/photos/1261427/pexels-photo-1261427.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+   imgLink="https://images.pexels.com/photos/1261427/pexels-photo-1261427.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
    heading="Our Team" 
    />
   </Layout>

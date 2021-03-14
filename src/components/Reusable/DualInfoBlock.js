@@ -1,9 +1,9 @@
 import React from "react"
-import BackgroundImage from "gatsby-background-image"
-import Heading from "./Heading"
-import { Link } from "gatsby"
 
-export default function DualInfoBlock({ heading,img }) {
+import Heading from "./Heading"
+
+
+export default function DualInfoBlock({ heading,imgLink }) {
   return (
     <section className="my-4 py-4 bg-theme">
       <div className="container">
@@ -35,9 +35,9 @@ export default function DualInfoBlock({ heading,img }) {
           <div className="col-4">
             <div className="card bg-dark">
               <img
-                src={img}
+                src={imgLink}
                 className="card-img-top"
-                alt="Image loads here"
+                alt=" loads here"
               />
             
               <div className="card-body">
