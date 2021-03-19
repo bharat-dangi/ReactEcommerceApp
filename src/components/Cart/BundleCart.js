@@ -9,7 +9,6 @@ export default class BundleCart extends Component {
     super(props)
     this.state = {
         bundleCourses: props.bundleCourses.edges,
-     
     }
   }
 
