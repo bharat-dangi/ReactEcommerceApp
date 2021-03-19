@@ -19,7 +19,7 @@ img={data.img.childImageSharp.fluid}
   heroClass="about-background"
   />
    <DualInfoBlock 
-   imgLink="https://images.pexels.com/photos/1261427/pexels-photo-1261427.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+   imgLink="https://media.istockphoto.com/photos/programmer-working-with-program-code-picture-id1075599562?k=6&m=1075599562&s=612x612&w=0&h=GGYUzdB_T4zA5N9eroCHkW7NgWYj117Tg8zKi1_UE4A="
    heading="Message from CEO" 
    />
    <InfoBlock heading="About Vision" />
