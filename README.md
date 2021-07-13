@@ -1,11 +1,10 @@
 # React Eccommerce App
 ## Demo Image
-<p float="left" >
-  <img src="https://user-images.githubusercontent.com/71741384/125412083-a45efc07-03aa-4fad-a0b6-7cae3bb8cc8a.png" width="400"/>
-  <img src="https://user-images.githubusercontent.com/71741384/125412128-57c97f00-e3de-11eb-850d-ac3010451e6c.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/71741384/125412147-5b5d0600-e3de-11eb-809d-f6e9959c2174.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/71741384/125412161-fa2adfff-9541-45f3-8df4-548854e33857.png" width="400" /> 
-</p>
+# ![Ecommerce App](https://user-images.githubusercontent.com/71741384/125415609-63344aa1-b5ac-414c-a917-fb74bd07ccde.png)
+# ![Ecommerce App](https://user-images.githubusercontent.com/71741384/125415627-63a5a046-158f-4d09-aa59-fb3a5ecc14bd.png)
+# ![Ecommerce App](https://user-images.githubusercontent.com/71741384/125415639-fec943a4-a918-42fe-8294-5dda3413bbb9.png)
+# ![Ecommerce App](https://user-images.githubusercontent.com/71741384/125415649-b895639a-75f1-4149-ba86-119496df131a.png)
+
 
 ## Demo Link
 https://react-ecommerce-practice-project.netlify.app/
