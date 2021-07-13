@@ -1,9 +1,9 @@
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/71741384/125412083-a45efc07-03aa-4fad-a0b6-7cae3bb8cc8a.png" width="400"/>
-  <img src="https://user-images.githubusercontent.com/71741384/125412128-57c97f00-e3de-11eb-850d-ac3010451e6c.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/71741384/125412147-5b5d0600-e3de-11eb-809d-f6e9959c2174.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/71741384/125412161-fa2adfff-9541-45f3-8df4-548854e33857.png" width="400" /> 
+<p >
+  <img src="https://user-images.githubusercontent.com/71741384/125412083-a45efc07-03aa-4fad-a0b6-7cae3bb8cc8a.png" width="600"/>
+  <img src="https://user-images.githubusercontent.com/71741384/125412128-57c97f00-e3de-11eb-850d-ac3010451e6c.png" width="600" />
+  <img src="https://user-images.githubusercontent.com/71741384/125412147-5b5d0600-e3de-11eb-809d-f6e9959c2174.png" width="600" />
+  <img src="https://user-images.githubusercontent.com/71741384/125412161-fa2adfff-9541-45f3-8df4-548854e33857.png" width="600" /> 
  
 </p>
 
